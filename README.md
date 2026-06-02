@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá, eu sou Caio Moraes de Andrade </h1>
+<h1 align="center">👋 Olá, eu sou Caio Moraes de Andrade</h1>
 
 <h3 align="center">
 Estudante de Desenvolvimento de Sistemas | SESI/SENAI Cruzeiro-Lorena
@@ -63,17 +63,27 @@ Meu objetivo é construir uma carreira sólida na área de tecnologia, adquirind
 
 <hr>
 
-<h2>⭐ Qualidades</h2>
+<h2> Qualidades</h2>
 
 <ul>
-  <li>✅ Autonomia</li>
-  <li>✅ Gestão de Tempo</li>
-  <li>✅ Trabalho em Equipe</li>
-  <li>✅ Organização</li>
-  <li>✅ Resolução de Problemas</li>
-  <li>✅ Projeto de Software</li>
-  <li>✅ Aprendizado Contínuo</li>
+  <li> Autonomia</li>
+  <li> Gestão de Tempo</li>
+  <li> Trabalho em Equipe</li>
+  <li> Organização</li>
+  <li> Resolução de Problemas</li>
+  <li> Projeto de Software</li>
+  <li> Aprendizado Contínuo</li>
 </ul>
+
+<hr>
+
+<h2>🎯 Objetivo Profissional</h2>
+
+<p>
+Busco desenvolver minha carreira na área de Tecnologia da Informação, com foco em Desenvolvimento de Sistemas. Atualmente sou estudante do SESI/SENAI Cruzeiro-Lorena e estou aprimorando meus conhecimentos em programação, desenvolvimento de software, sistemas operacionais e automação.
+
+Meu objetivo é adquirir experiência prática, participar de projetos desafiadores, evoluir continuamente minhas habilidades técnicas e contribuir para soluções inovadoras que gerem impacto positivo por meio da tecnologia.
+</p>
 
 <hr>
 
@@ -87,15 +97,11 @@ Meu objetivo é construir uma carreira sólida na área de tecnologia, adquirind
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight"/>
 </p>
 
-<hr>
-
-<h2>📫 Contato</h2>
-
 <p>
 📧 Email: moraesdeandradecaio@gmail.com <br>
 💼 LinkedIn: [seu-linkedin]<br>
 🐙 GitHub: https://github.com/ CaioMoraes00
 </p>
 
-<hr>
+
 

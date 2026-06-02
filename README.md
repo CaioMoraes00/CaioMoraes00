@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá, eu sou [Caio Moraes de Andrade]</h1>
+<h1 align="center">👋 Olá, eu sou Caio Moraes de Andrade </h1>
 
 <h3 align="center">
 Estudante de Desenvolvimento de Sistemas | SESI/SENAI Cruzeiro-Lorena
@@ -92,13 +92,10 @@ Meu objetivo é construir uma carreira sólida na área de tecnologia, adquirind
 <h2>📫 Contato</h2>
 
 <p>
-📧 Email: [moraesdeandradecaio@gmail.com]<br>
+📧 Email: moraesdeandradecaio@gmail.com <br>
 💼 LinkedIn: [seu-linkedin]<br>
-🐙 GitHub: https://github.com/[CaioMoraes00]
+🐙 GitHub: https://github.com/ CaioMoraes00
 </p>
 
 <hr>
 
-<p align="center">
-  <i>"A tecnologia move o mundo, e o aprendizado constante abre os caminhos."</i>
-</p>

@@ -44,9 +44,16 @@ Meu objetivo é construir uma carreira sólida na área de tecnologia, adquirind
 
 </p>
 
-<p>
-Python, C++, Linux Ubuntu, Arduino, Engenharia de Software, Windows CMD, Git e GitHub
-</p>
+<ul>
+  <li>Python</li>
+  <li>C++</li>
+  <li>Linux</li>
+  <li>Ubuntu</li>
+  <li>Arduino</li>
+  <li>Git</li>
+  <li>GitHub</li>
+  <li>VS Code</li>
+</ul>
 
 <hr>
 
@@ -62,6 +69,15 @@ Python, C++, Linux Ubuntu, Arduino, Engenharia de Software, Windows CMD, Git e G
 <img src="https://skillicons.dev/icons?i=arduino" height="60"/>
 
 </p>
+
+<ul>
+  <li>VS Code</li>
+  <li>GitHub</li>
+  <li>Git</li>
+  <li>Linux</li>
+  <li>Ubuntu</li>
+  <li>Arduino IDE</li>
+</ul>
 
 <hr>
 

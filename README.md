@@ -13,9 +13,7 @@ Estudante de Desenvolvimento de Sistemas | SESI/SENAI Cruzeiro-Lorena
 <h2>🎯 Objetivo Profissional</h2>
 
 <p>
-Busco desenvolver minha carreira na área de Tecnologia da Informação, com foco em Desenvolvimento de Sistemas. Atualmente sou estudante do SESI/SENAI Cruzeiro-Lorena e estou aprimorando meus conhecimentos em programação, desenvolvimento de software, sistemas operacionais e automação.
-
-Meu objetivo é adquirir experiência prática, participar de projetos desafiadores, evoluir continuamente minhas habilidades técnicas e contribuir para soluções inovadoras que gerem impacto positivo por meio da tecnologia.
+Busco desenvolver minha carreira na área de Tecnologia da Informação, com foco em Desenvolvimento de Sistemas. Tenho interesse em adquirir experiência prática, participar de projetos desafiadores, evoluir continuamente minhas habilidades técnicas e contribuir para soluções inovadoras que gerem impacto positivo por meio da tecnologia.
 </p>
 
 <hr>
@@ -76,6 +74,7 @@ Python, C++, Linux Ubuntu, Arduino, Engenharia de Software, Windows CMD, Git e G
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight"/>
 </p>
+
 
 <p>
 📧 Email: moraesdeandradecaio@gmail.com <br>
